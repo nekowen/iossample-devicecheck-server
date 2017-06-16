@@ -1,2 +1,6 @@
-# iossample-devicecheck-server
-DeviceCheck Server Sample
+# iOS DeviceCheck Server Sample
+
+# Getting Started
+```shell
+composer install
+```

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zenstruck/jwt": "^1.0",
+        "ramsey/uuid": "^3.6"
+    }
+}
